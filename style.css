@@ -22,11 +22,11 @@ body {
   padding-bottom: 100%;
 }
 
-#imag-max-temp {
+.imag-max-temp {
   max-width: 100%;
 }
 
-.imag-max-temp {
+#imag-max-temp {
   max-width: 100%;
 }
 
